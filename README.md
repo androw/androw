@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+I'm Androw, a young actuarial consultant in Paris!
+
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,java,git,ansible,bash,c,cpp,github,gitlab,mysql,py,r,scala,vim,vscode)](https://skillicons.dev)
+
 <!--
-**androw/androw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
