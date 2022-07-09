@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Androw, a young actuarial consultant in Paris!
+I'm Androw, actuarial consultant in Paris!
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,java,git,ansible,bash,c,cpp,github,gitlab,mysql,py,r,scala,vim,vscode)](https://skillicons.dev)
