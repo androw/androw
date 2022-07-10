@@ -3,7 +3,12 @@
 I'm Androw, actuarial consultant in Paris!
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,java,git,ansible,bash,c,cpp,github,gitlab,mysql,py,r,scala,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,java,git,ansible,bash,c,cpp,github,gitlab,mysql,py,r,scala,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
+
+### 📫 Available On
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Androw95)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/androw/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/249908751052570635)
 
 <!--
 - 🔭 I’m currently working on ...
