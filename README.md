@@ -1,9 +1,12 @@
-### Hi there 👋
+### 👋 Hi there,
 
 I'm Androw, actuarial consultant in Paris!
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,java,git,ansible,bash,c,cpp,github,gitlab,mysql,py,r,scala,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
+### ⚡ My Languages
+[![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)
+
+### 🔭 My Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,ansible,github,gitlab,mysql,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
 
 ### 📫 Available On
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Androw95)
