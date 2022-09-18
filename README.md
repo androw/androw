@@ -5,6 +5,9 @@ I'm Androw, actuarial consultant in Paris!
 ### ⚡ My Languages
 [![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)
 
+### 🌱 I want to learn
+[![Wanna learn](https://skillicons.dev/icons?i=rust,go,kotlin,dart)](https://skillicons.dev)
+
 ### 🔭 My Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,ansible,github,gitlab,mysql,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
 
