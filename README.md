@@ -3,17 +3,18 @@
 I'm Androw, actuarial consultant in Paris!
 
 ### ⚡ My Languages
-[![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)
 
 ### 🌱 I want to learn
 [![Wanna learn](https://skillicons.dev/icons?i=rust,go,kotlin,dart)](https://skillicons.dev)
 
 ### 🔭 My Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,ansible,github,gitlab,mysql,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,docker,git,ansible,github,gitlab,mysql,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
 
 ### 📫 Available On
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Androw95)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/androw/)
+[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://libretooth.gr/@androw)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Androw95)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/249908751052570635)
 
 <!--
