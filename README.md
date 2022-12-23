@@ -1,6 +1,6 @@
 ### 👋 Hi there,
 
-I'm Androw, actuarial consultant in Paris!
+I'm Androw, actuarial manager at aVB in Paris!
 
 ### ⚡ My Languages
 [![My Languages](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)
