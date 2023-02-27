@@ -14,8 +14,8 @@ I'm Androw, actuarial manager at aVB in Paris!
 ### 📫 Available On
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/androw/)
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://libretooth.gr/@androw)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Androw95)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/249908751052570635)
+
 
 <!--
 - 🔭 I’m currently working on ...
