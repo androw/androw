@@ -13,7 +13,7 @@ I'm Androw, actuarial manager at aVB in Paris!
 
 ### 📫 Available On
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/androw/)
-[![Fediverse](https://skillicons.dev/icons?i=fediverse)](https://piaille.fr/@androw)
+[![Fediverse](https://skillicons.dev/icons?i=fediverse)](https://fe.disroot.org/@androw)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/249908751052570635)
 
 
