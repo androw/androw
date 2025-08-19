@@ -9,7 +9,7 @@ I'm Androw, actuarial manager at aVB in Paris!
 [![Wanna learn](https://skillicons.dev/icons?i=rust,go,kotlin,dart)](https://skillicons.dev)
 
 ### 🔭 My Tools
-[![My Tools](https://skillicons.dev/icons?i=linux,docker,git,ansible,github,gitlab,mysql,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,arch,ubuntu,docker,git,ansible,github,githubactions,gitlab,bitbucket,mysql,postgres,neovim,vscode,gcp,raspberrypi,regex,latex)](https://skillicons.dev)
 
 ### 📫 Available On
 [![Fediverse](https://skillicons.dev/icons?i=fediverse)](https://fe.disroot.org/users/androw)
